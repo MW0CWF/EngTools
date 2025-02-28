@@ -1,4 +1,4 @@
-Miscellaneous Engineering software tools.
+Miscellaneous Engineering software tools, mainly for 8 bit Acorn computers.
 
 Most have been developed to solve a specific objective and may not function
 in the same manner when applied to other environments.
